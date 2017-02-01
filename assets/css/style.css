@@ -14,5 +14,7 @@ p {
 	
 }
  .container {
+ 	margin: 0 auto;
+ 	width: 33%;
 	border: 1px solid black;
  }
