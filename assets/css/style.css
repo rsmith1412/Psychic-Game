@@ -17,4 +17,16 @@ p {
  	margin: 0 auto;
  	width: 33%;
 	border: 1px solid black;
+	margin-bottom: 20px;
+ }
+
+ .psychic {
+ 	margin: 0 auto;
+ 	width: 40%;
+
+ }
+
+ .img {
+ 	margin: 0 auto;
+ 	text-align: center;
  }
